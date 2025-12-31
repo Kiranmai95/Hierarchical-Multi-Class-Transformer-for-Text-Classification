@@ -1,0 +1,15 @@
+venv/
+# Ignore tokenizer files
+#model_artifacts1/tokenizer/tokenizer
+#model_artifacts1/tokenizer/spm.model
+
+# Ignore large model file
+#model_artifacts1/model/model_full.pt
+
+# Ignore all files in tokenizer folder
+#model_artifacts1/tokenizer/*
+
+# Ignore all files in model folder
+#model_artifacts1/model/*
+
+

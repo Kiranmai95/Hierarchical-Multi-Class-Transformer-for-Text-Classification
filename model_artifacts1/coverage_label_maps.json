@@ -1,0 +1,22 @@
+{
+  "Auto": {
+    "Auto Collision": 0,
+    "Auto Comprehensive": 1,
+    "Auto Liability": 2,
+    "Auto Medical_PIP": 3,
+    "Auto UM_UIM": 4,
+    "Auto_Other": 5
+  },
+  "wc": {
+    "wc": 0,
+    "wc_Death_and_Survivor_Benefits": 1,
+    "wc_Disability_Wage_Replacement_Benefits": 2,
+    "wc_Medical_benefits": 3,
+    "wc_vocational_rehabilitation": 4
+  },
+  "gl": {
+    "gl": 0,
+    "gl_Bodily_Personal_Advertising_Injury": 1,
+    "gl_Property_Damage": 2
+  }
+}
