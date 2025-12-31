@@ -1,4 +1,5 @@
 venv/
+Interview Sample Data.xlsx
 # Ignore tokenizer files
 #model_artifacts1/tokenizer/tokenizer
 #model_artifacts1/tokenizer/spm.model
