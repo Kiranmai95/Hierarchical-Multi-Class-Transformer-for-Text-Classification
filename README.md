@@ -11,7 +11,7 @@ The solution is designed to handle imbalanced data, label noise, and semi-struct
 
 
 - Problem statement
-Given the Loss Description, predict the Line of Business and Coverage type
+  * Given the Loss Description, predict the Line of Business and Coverage type
 
 Steps Applied
   * Data loading
@@ -38,6 +38,11 @@ Steps Applied
 
 - Model Artifacts
   * Saved model trained weights, encoder configuration, tokenizer, label mappings
+ 
+- Files
+   * Analysis/cleaning/training is in the file "Data_Analysis_cleaning_training.ipynb"
+   * Inference (Model predictions) is in the file  "inference.ipynb"
+   * trained model is saved to folder "model_artifacts1"
   
 
 
